@@ -5,7 +5,7 @@ Step 1: How to use Github
 
 
 # Glossary
-Branch
+Branch +\t+
 Clone
 Commit
 Fetch
