@@ -1,2 +1,19 @@
 # A03
-How to use Github
+Step 1: How to use Github
+
+
+
+
+# Glossary
+Branch
+Clone
+Commit
+Fetch
+GIT
+Github
+Merge
+Merge Conflict
+Push
+Pull
+Remote
+Repository
